@@ -1,0 +1,12 @@
+VSVersionInfo(
+ ffi=FixedFileInfo(filevers=(1,0,0,0), prodvers=(1,0,0,0), mask=0x3f, flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0,0)),
+ kids=[StringFileInfo([StringTable('040904B0', [
+ StringStruct('CompanyName', 'Eigrutel Lab'),
+ StringStruct('FileDescription', 'Date Photo - EXIF photo organizer'),
+ StringStruct('FileVersion', '1.0.0'),
+ StringStruct('InternalName', 'DatePhoto'),
+ StringStruct('LegalCopyright', 'Simon Léturgie - Eigrutel Lab. AGPL-3.0-or-later. Trademarks reserved.'),
+ StringStruct('OriginalFilename', 'DatePhoto-1.0.0.exe'),
+ StringStruct('ProductName', 'Date Photo'),
+ StringStruct('ProductVersion', '1.0.0')])]), VarFileInfo([VarStruct('Translation', [1033,1200])])]
+)
